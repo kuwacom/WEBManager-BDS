@@ -1,0 +1,2 @@
+# WEBManager-BDS
+WEBからコンソールやらいじれるBDS
