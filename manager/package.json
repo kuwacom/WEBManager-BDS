@@ -1,0 +1,17 @@
+{
+  "name": "project-name-heare",
+  "version": "1.0",
+  "description": "web-console",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tslog": "^4.8.1",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.10",
+    "@types/ws": "^8.5.5"
+  }
+}
